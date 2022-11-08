@@ -1,5 +1,6 @@
 This is my Version 1.
 Some editing to check git's respond.
 Some more editing.
-Some more changes.
-One more edit
+
+One more edit for something.
+More change for git diff.
